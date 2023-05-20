@@ -20,4 +20,4 @@ class Train {
   int getLength();
   int getOpCount();
 };
-#endif
+#endif // INCLUDE_TRAIN_H_
